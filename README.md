@@ -24,16 +24,16 @@
 
 1. С помощью ключа в KMS необходимо зашифровать содержимое бакета:
 
-- [kms.tf]()
+- [kms.tf](https://github.com/vladrabbit/yc-3/blob/main/lamp/kms.tf)
 
 - скриншот вывода "yc kms symmetric-key get abj6tdvd73khg7egbn90"
 
-  ![SCR-1]()
+  ![SCR-1](https://github.com/vladrabbit/yc-3/blob/main/SCR/6.png)
 
 - Instance Group LAMP
 
-  ![SCR-2]()
+  ![SCR-2](https://github.com/vladrabbit/yc-3/blob/main/SCR/4.png)
 
 2. Скриншот на страницу с сертификатом в заголовке (замочек)
 
-  ![SCR-3]()
+  ![SCR-3](https://github.com/vladrabbit/yc-3/blob/main/SCR/5.png)
