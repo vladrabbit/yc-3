@@ -3,3 +3,5 @@ terraform.tfvars
 .terraform.lock.hcl
 .terraform/
 lamp/terraform.tfvars
+*tfstate*
+/lamp/*tfstate*
